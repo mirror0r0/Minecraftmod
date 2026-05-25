@@ -1,0 +1,9 @@
+{
+  "type": "new_enchantments_mod_1779696334:enchantment_smithing",
+  "addition": {
+    "item": "minecraft:echo_shard"
+  },
+  "addition_count": 4,
+  "enchantment": "new_enchantments_mod_1779696334:scream",
+  "level": 3
+}

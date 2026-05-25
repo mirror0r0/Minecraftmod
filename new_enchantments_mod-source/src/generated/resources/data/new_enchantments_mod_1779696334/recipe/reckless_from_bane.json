@@ -1,0 +1,11 @@
+{
+  "type": "new_enchantments_mod_1779696334:enchantment_smithing",
+  "addition": {
+    "item": "minecraft:suspicious_stew"
+  },
+  "addition_count": 1,
+  "enchantment": "new_enchantments_mod_1779696334:reckless",
+  "level": 1,
+  "min_source_level": 3,
+  "replace_source": "minecraft:bane_of_arthropods"
+}

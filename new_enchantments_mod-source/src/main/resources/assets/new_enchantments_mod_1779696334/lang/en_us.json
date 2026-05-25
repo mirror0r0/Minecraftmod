@@ -1,0 +1,16 @@
+{
+  "enchantment.new_enchantments_mod_1779696334.scream": "尖啸",
+  "enchantment.new_enchantments_mod_1779696334.reckless": "无谋",
+  "enchantment.new_enchantments_mod_1779696334.feast": "狂宴",
+  "enchantment.new_enchantments_mod_1779696334.wild": "狂野",
+  "enchantment.new_enchantments_mod_1779696334.bloodbath": "浴血",
+  "enchantment.new_enchantments_mod_1779696334.tenacity": "坚毅",
+  "enchantment.new_enchantments_mod_1779696334.ethereal": "幽质",
+  "enchantment.new_enchantments_mod_1779696334.backstab": "背刺",
+  "enchantment.new_enchantments_mod_1779696334.agony": "苦痛",
+  "enchantment.new_enchantments_mod_1779696334.calamity": "灾祸",
+  "enchantment.new_enchantments_mod_1779696334.catalysis": "催化",
+
+  "__comment__": "Smithing recipe tooltips (optional)",
+  "recipe.new_enchantments_mod_1779696334.enchantment_smithing": "附魔锻造"
+}

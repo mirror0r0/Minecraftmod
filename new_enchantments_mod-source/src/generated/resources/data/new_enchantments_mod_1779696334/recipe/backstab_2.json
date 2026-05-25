@@ -1,0 +1,9 @@
+{
+  "type": "new_enchantments_mod_1779696334:enchantment_smithing",
+  "addition": {
+    "item": "minecraft:spider_eye"
+  },
+  "addition_count": 8,
+  "enchantment": "new_enchantments_mod_1779696334:backstab",
+  "level": 2
+}

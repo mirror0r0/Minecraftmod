@@ -1,0 +1,45 @@
+{
+  "anvil_cost": 4,
+  "description": {
+    "translate": "enchantment.new_enchantments_mod_1779696334.tenacity"
+  },
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "amount": {
+          "type": "minecraft:linear",
+          "base": 2.0,
+          "per_level_above_first": 1.0
+        },
+        "attribute": "minecraft:generic.armor",
+        "id": "new_enchantments_mod_1779696334:enchantment.tenacity.armor",
+        "operation": "add_value"
+      },
+      {
+        "amount": {
+          "type": "minecraft:linear",
+          "base": -0.2,
+          "per_level_above_first": -0.043
+        },
+        "attribute": "minecraft:generic.movement_speed",
+        "id": "new_enchantments_mod_1779696334:enchantment.tenacity.speed",
+        "operation": "add_multiplied_base"
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 30,
+    "per_level_above_first": 8
+  },
+  "max_level": 4,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 8
+  },
+  "slots": [
+    "offhand",
+    "mainhand"
+  ],
+  "supported_items": "minecraft:shield",
+  "weight": 5
+}
