@@ -1,0 +1,10 @@
+{
+    "effect.pain_strike_mod_1779633538.vulnerability": "易伤",
+
+    "enchantment.pain_strike_mod_1779633538.ruin": "破灭",
+    "enchantment.pain_strike_mod_1779633538.ruin.desc": "攻击时消耗自身1耐久，额外消耗目标护甲耐久并增加伤害",
+    "enchantment.pain_strike_mod_1779633538.heavy_blade": "重刃",
+    "enchantment.pain_strike_mod_1779633538.heavy_blade.desc": "降低攻速但提升基础伤害，力量与虚弱效果增强",
+    "enchantment.pain_strike_mod_1779633538.pain_strike": "痛击",
+    "enchantment.pain_strike_mod_1779633538.pain_strike.desc": "暴击时对目标施加易伤效果"
+}

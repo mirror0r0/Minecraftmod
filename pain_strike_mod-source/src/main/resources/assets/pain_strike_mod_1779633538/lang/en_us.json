@@ -1,0 +1,10 @@
+{
+    "effect.pain_strike_mod_1779633538.vulnerability": "Vulnerability",
+
+    "enchantment.pain_strike_mod_1779633538.ruin": "Ruin",
+    "enchantment.pain_strike_mod_1779633538.ruin.desc": "Consumes 1 durability on attack, damages target armor and adds bonus damage",
+    "enchantment.pain_strike_mod_1779633538.heavy_blade": "Heavy Blade",
+    "enchantment.pain_strike_mod_1779633538.heavy_blade.desc": "Reduces attack speed but increases base damage, enhances strength and weakness effects",
+    "enchantment.pain_strike_mod_1779633538.pain_strike": "Pain Strike",
+    "enchantment.pain_strike_mod_1779633538.pain_strike.desc": "Applies vulnerability on critical hits"
+}
